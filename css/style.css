@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+		background-color: #eee;
+font-family: oxygen
+
+}
+
+
+.aladen{
+	background: #f1f1f1;
+	width: 50%;
+	margin-left: 200px;
+	margin-top: 50px;
+	padding: 50px;
+	border: 2px solid #222;
+	text-align: center;
+}
+.aladen h1{
+	font-weight: bold;
+	color: #e3e3e3;
+}
+.aladen li{
+	background: green;
+	color: #fff;
+}
+.aladen li:hover{
+	color: #888888
+}
